@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700552299 source:c:\users\admin\desktop\cola dinamica\main.cpp
+	<iostream>
+	"Cola.h"
+	<locale>
+
+1700553812 c:\users\admin\desktop\cola dinamica\cola.h
+	<iostream>
+
